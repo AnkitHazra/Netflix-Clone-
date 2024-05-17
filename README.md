@@ -1,2 +1,2 @@
 # Netflix-Clone-
-LIVE LINK:- https://ankitnetflixclone.netlify.app/
+LIVE LINK:-https://ankitportfolio20.netlify.app/
