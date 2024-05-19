@@ -1,2 +1,1 @@
-# Netflix-Clone-
-LIVE LINK:-https://ankitportfolio20.netlify.app/
+# Netflix-Clone-Using-HTML-CSS
